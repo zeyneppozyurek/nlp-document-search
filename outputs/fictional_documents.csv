@@ -1,0 +1,9 @@
+id,title,text
+network,Network troubleshooting,"A network connection timeout can result from packet loss. Check latency, router connectivity and the server address."
+database,Database backups,Create database backups before migrations. Verify restore procedures and retention policies.
+performance,Frame performance,High frame time reduces rendering performance. Profile CPU and GPU workloads to investigate frame drops.
+security,Account security,Enable multifactor authentication. Do not share passwords or access tokens.
+data,Missing data,Missing numerical sensor values can be imputed with a median. Report missing counts before cleaning.
+deployment,Application deployment,Test the application build before deployment. Record versions and prepare a rollback procedure.
+logging,Session logging,"Export simulation session logs as CSV with a session identifier, timestamp and numerical measurements."
+model,Model evaluation,Split training and test data before fitting a model. Compare validation metrics against a baseline.

@@ -1,0 +1,51 @@
+[
+  {
+    "query": "packet loss and network timeout",
+    "expected": "network",
+    "matches": [
+      {
+        "id": "network",
+        "title": "Network troubleshooting",
+        "score": 0.4663
+      }
+    ]
+  },
+  {
+    "query": "median for missing sensor values",
+    "expected": "data",
+    "matches": [
+      {
+        "id": "data",
+        "title": "Missing data",
+        "score": 0.5897
+      }
+    ]
+  },
+  {
+    "query": "training and test split",
+    "expected": "model",
+    "matches": [
+      {
+        "id": "model",
+        "title": "Model evaluation",
+        "score": 0.4449
+      },
+      {
+        "id": "deployment",
+        "title": "Application deployment",
+        "score": 0.0893
+      }
+    ]
+  },
+  {
+    "query": "CPU GPU frame drops",
+    "expected": "performance",
+    "matches": [
+      {
+        "id": "performance",
+        "title": "Frame performance",
+        "score": 0.55
+      }
+    ]
+  }
+]

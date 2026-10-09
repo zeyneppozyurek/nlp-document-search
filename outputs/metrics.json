@@ -1,0 +1,6 @@
+{
+  "documents": 8,
+  "test_queries": 4,
+  "top1_accuracy_on_tiny_demo": 1.0,
+  "unknown_query_abstains": true
+}
